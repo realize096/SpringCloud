@@ -59,7 +59,7 @@
         <dependency>
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger-ui</artifactId>
-            <version>2.9.2</version>
+            <version>2.10.5</version>
         </dependency>
     </dependencies>
 
@@ -91,10 +91,10 @@
                         <doctype>book</doctype>
                         <toc>left</toc>
                         <toclevels>3</toclevels>
-                        <numbered></numbered>
-                        <hardbreaks></hardbreaks>
-                        <sectlinks></sectlinks>
-                        <sectanchors></sectanchors>
+                        <numbered/>
+                        <hardbreaks/>
+                        <sectlinks/>
+                        <sectanchors/>
                     </attributes>
                 </configuration>
             </plugin>
