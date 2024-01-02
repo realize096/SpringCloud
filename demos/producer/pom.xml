@@ -44,7 +44,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>druid-spring-boot-starter</artifactId>
-            <version>1.1.9</version>
+            <version>1.2.21</version>
         </dependency>
         <!--数据库-->
         <dependency>
@@ -105,10 +105,10 @@
                         <doctype>book</doctype>
                         <toc>left</toc>
                         <toclevels>3</toclevels>
-                        <numbered></numbered>
-                        <hardbreaks></hardbreaks>
-                        <sectlinks></sectlinks>
-                        <sectanchors></sectanchors>
+                        <numbered/>
+                        <hardbreaks/>
+                        <sectlinks/>
+                        <sectanchors/>
                     </attributes>
                 </configuration>
             </plugin>
